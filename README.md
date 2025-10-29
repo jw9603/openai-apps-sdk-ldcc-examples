@@ -219,6 +219,15 @@ pnpm install
 pnpm run build
 ```
 
+UI를 수정하면서 바로 렌더 결과를 확인하고 싶다면, Vite 개발 서버를 실행합니다:
+
+```bash
+pnpm run dev
+```
+
+이 모드는 핫 리로드를 지원하므로 React UI 변경사항이 실시간으로 반영됩니다. (데모 보여줄 때 쓰기)
+
+
 이 명령은 `build-all.mts` 를 실행하여 `assets/` 디렉토리에 아래와 같은 빌드 산출물을 생성합니다:
 
 ```
@@ -346,4 +355,5 @@ repository, which is licensed under the MIT License.
 
 
 All custom UI and dataset modifications for "도시의 푸른농장" are authored by Jiwon Jeong.
+
 
