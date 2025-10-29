@@ -246,13 +246,20 @@ assets/
 
 ## 🥬 MCP 서버 실행 (Python)
 
+이 저장소는 Apps SDK 위젯 번들을 시각화하기 위한 **Python MCP 서버 예시**를 포함합니다.
+모든 도구 응답에는 일반 텍스트, 구조화된 JSON, 그리고
+`_meta.openai/outputTemplate` 메타데이터가 포함되어 있어 ChatGPT가 대응되는 위젯을 자동으로 렌더링할 수 있습니다.
+
 ```bash
 python -m venv .venv
-source .venv/bin/activate   # Windows → source .venv/Scripts/Activate.ps1
-pip install -r requirements.txt
-uvicorn ldcc_server_python.main:app --port 8000
+source .venv/bin/activate        # Windows: .venv\Scripts\activate
 
+pip install -r ldcc_server_python/requirements.txt
+uvicorn ldcc_server_python.main:app --port 8000
 ```
+
+> 💡 한 번 설치한 가상환경(.venv)은 모든 Python MCP 서버에서 재사용할 수 있습니다.
+
 
 ### ⚠️ 정적 파일 경로 설정 필수
 
@@ -270,24 +277,6 @@ app.mount(
 | ----------- | --------------------------------------------- |
 | macOS/Linux | `/Users/username/lotte-vegi-app/assets`       |
 | Windows     | `C:\\Users\\username\\lotte-vegi-app\\assets` |
-
----
-## 🥬 MCP 서버 실행
-
-이 저장소는 Apps SDK 위젯 번들을 시각화하기 위한 **Python MCP 서버 예시**를 포함합니다.
-모든 도구 응답에는 일반 텍스트, 구조화된 JSON, 그리고
-`_meta.openai/outputTemplate` 메타데이터가 포함되어 있어 ChatGPT가 대응되는 위젯을 자동으로 렌더링할 수 있습니다.
-
-### Lotte Vegi (Python) 서버 실행
-
-```bash
-python -m venv .venv
-source .venv/bin/activate       # Windows: .venv\Scripts\activate
-pip install -r ldcc_server_python/requirements.txt
-uvicorn ldcc_server_python.main:app --port 8000
-```
-
-> 💡 한 번 설치한 가상환경(.venv)은 모든 Python MCP 서버에서 재사용할 수 있습니다.
 
 ---
 
@@ -348,6 +337,7 @@ repository, which is licensed under the MIT License.
 
 
 All custom UI and dataset modifications for "도시의 푸른농장" are authored by Jiwon Jeong.
+
 
 
 
