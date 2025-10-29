@@ -1,0 +1,64 @@
+{
+  "albums": [
+    {
+      "id": "romaine",
+      "title": "로메인 🥬",
+      "cover": "https://nonlaminated-lasonya-nonaddicted.ngrok-free.dev/static/romaine.png",
+      "photos": [
+        {
+          "id": "romaine-1",
+          "title": "로메인 🥬",
+          "price": "1kg당 13,070원",
+          "description": "로메인 상추는 잎이 길고 단단하며, 아삭한 식감과 고소한 맛이 특징입니다. 샐러드나 샌드위치에 자주 사용되며, 비타민 A와 K가 풍부하여 건강에 좋습니다.",
+          "url": "https://nonlaminated-lasonya-nonaddicted.ngrok-free.dev/static/romaine.png",
+          "link": "https://www.lotteon.com/p/product/LO2418274535?sitmNo=LO2418274535_2418274536&mall_no=1&dp_infw_cd=SCH%5E%5E%EB%8F%84%EC%8B%9C%EC%9D%98%20%ED%91%B8%EB%A5%B8%EB%86%8D%EC%9E%A5&areaCode=SCH"
+        }
+      ]
+    },
+    {
+      "id": "butter",
+      "title": "버터헤드 🧈🥗",
+      "cover": "https://nonlaminated-lasonya-nonaddicted.ngrok-free.dev/static/butter.png",
+      "photos": [
+        {
+          "id": "butter-1",
+          "title": "버터헤드 🧈🥗",
+          "price":"1kg당 13,470원",
+          "description": "버터헤드 상추는 부드럽고 크리미한 질감이 특징이며, 잎이 넓고 둥글게 말려 있습니다. 샐러드에 자주 사용되며, 비타민과 미네랄이 풍부하여 영양가가 높습니다.",
+          "url": "https://nonlaminated-lasonya-nonaddicted.ngrok-free.dev/static/butter.png",
+          "link": "https://www.lotteon.com/p/product/LO2418274535?sitmNo=LO2418274535_2418274536&mall_no=1&dp_infw_cd=SCH%5E%5E%EB%8F%84%EC%8B%9C%EC%9D%98%20%ED%91%B8%EB%A5%B8%EB%86%8D%EC%9E%A5&areaCode=SCH"
+        }
+      ]
+    },
+    {
+      "id": "prillice",
+      "title": "프릴아이스 🌿❄️",
+      "cover": "https://nonlaminated-lasonya-nonaddicted.ngrok-free.dev/static/prillice.png",
+      "photos": [
+        {
+          "id": "prillice-1",
+          "title": "프릴아이스 🌿❄️",
+          "price": "1kg당 13,770원",
+          "description": "프릴아이스 상추는 잎이 주름지고 물결 모양을 이루며, 아삭한 식감과 상큼한 맛이 특징입니다. 샐러드에 자주 사용되며, 비타민 C와 섬유질이 풍부하여 소화에 도움을 줍니다.",
+          "url": "https://nonlaminated-lasonya-nonaddicted.ngrok-free.dev/static/prillice.png",
+          "link": "https://www.lotteon.com/p/product/LO2418274535?sitmNo=LO2418274535_2418274536&mall_no=1&dp_infw_cd=SCH%5E%5E%EB%8F%84%EC%8B%9C%EC%9D%98%20%ED%91%B8%EB%A5%B8%EB%86%8D%EC%9E%A5&areaCode=SCH"
+        }
+      ]
+    },
+    {
+      "id": "batavia",
+      "title": "바타비아 🥗🌳",
+      "cover": "https://nonlaminated-lasonya-nonaddicted.ngrok-free.dev/static/batavia.png",
+      "photos": [
+        {
+          "id": "batavia-1",
+          "title": "바타비아 🥗🌳",
+          "price": "1kg당 13,970원",
+          "description": "바타비아 상추는 잎이 두껍고 단단하며, 아삭한 식감과 고소한 맛이 특징입니다. 샐러드나 샌드위치에 자주 사용되며, 비타민과 미네랄이 풍부하여 건강에 좋습니다.",
+          "url": "https://nonlaminated-lasonya-nonaddicted.ngrok-free.dev/static/batavia.png",
+          "link": "https://www.lotteon.com/p/product/LO2418274535?sitmNo=LO2418274535_2418274536&mall_no=1&dp_infw_cd=SCH%5E%5E%EB%8F%84%EC%8B%9C%EC%9D%98%20%ED%91%B8%EB%A5%B8%EB%86%8D%EC%9E%A5&areaCode=SCH"
+        }
+      ]
+    }
+  ]
+}

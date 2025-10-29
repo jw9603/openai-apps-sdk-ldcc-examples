@@ -1,0 +1,130 @@
+{
+  "albums": [
+    {
+      "id": "summer-escape",
+      "title": "로메인",
+      "cover": "https://metaphysical-haggishly-deedra.ngrok-free.dev/static/romaine.png",
+      "description": "아삭한 식감과 고소한 맛!",
+      "price": "12000원",
+      "origin": "국산",
+      "link": "https://www.kottonseed.io/urbangreen",
+      "photos": [
+        {
+          "id": "s1",
+          "title": "Waves",
+          "url": "https://persistent.oaistatic.com/pizzaz/pizzaz-2.png"
+        },
+        {
+          "id": "s2",
+          "title": "Palm trees",
+          "url": "https://persistent.oaistatic.com/pizzaz/pizzaz-3.png"
+        },
+        {
+          "id": "s3",
+          "title": "Sunset",
+          "url": "https://persistent.oaistatic.com/pizzaz/pizzaz-6.png"
+        }
+      ]
+    },
+    {
+      "id": "city-lights",
+      "title": "버터헤드",
+      "description": "쓴맛이 적고 달콤한 유럽종 상추~",
+      "price": "10000원",
+      "origin": "스페인",
+      "cover": "https://metaphysical-haggishly-deedra.ngrok-free.dev/static/butter.png",
+      "link": "https://www.lotteon.com/p/product/LO2403849146?sitmNo=LO2403849146_2403849147&mall_no=1&dp_infw_cd=SCH%5E%5E%EB%B2%84%ED%84%B0%ED%97%A4%EB%93%9C&areaCode=SCH",
+      "photos": [
+        {
+          "id": "c1",
+          "title": "Downtown",
+          "url": "https://persistent.oaistatic.com/pizzaz/pizzaz-5.png"
+        },
+        {
+          "id": "c2",
+          "title": "Neon",
+          "url": "https://persistent.oaistatic.com/pizzaz/pizzaz-1.png"
+        },
+        {
+          "id": "c3",
+          "title": "Streets",
+          "url": "https://persistent.oaistatic.com/pizzaz/pizzaz-2.png"
+        }
+      ]
+    },
+    {
+      "id": "into-the-woods",
+      "title": "프릴아이스",
+      "description": "비타민과 식이섬유가 풍부한 저칼로리 슈퍼 채소",
+      "price": "11000원",
+      "origin": "영국",
+      "cover": "https://metaphysical-haggishly-deedra.ngrok-free.dev/static/prillice.png",
+      "link": "https://www.lotteon.com/p/product/LO1940157107?sitmNo=LO1940157107_1940157108&mall_no=1&dp_infw_cd=SCH%5E%5E%ED%94%84%EB%A6%B4%EC%95%84%EC%9D%B4%EC%8A%A4&areaCode=SCH",
+      "photos": [
+        {
+          "id": "n1",
+          "title": "Forest path",
+          "url": "https://persistent.oaistatic.com/pizzaz/pizzaz-6.png"
+        },
+        {
+          "id": "n2",
+          "title": "Misty",
+          "url": "https://persistent.oaistatic.com/pizzaz/pizzaz-4.png"
+        },
+        {
+          "id": "n3",
+          "title": "Waterfall",
+          "url": "https://persistent.oaistatic.com/pizzaz/pizzaz-5.png"
+        }
+      ]
+    },
+    {
+      "id": "pizza-tour",
+      "title": "바타비아",
+      "description": "비타민 C가 풍부해 피부 건강과 눈 건강에 도움",
+      "price": "9000원",
+      "origin": "국산",
+      "cover": "https://metaphysical-haggishly-deedra.ngrok-free.dev/static/batavia.png",
+      "link": "https://www.lotteon.com/p/product/LO2534200719?sitmNo=LO2534200719_2534200720&mall_no=1&dp_infw_cd=SCH%5E%5E%EB%B0%94%ED%83%80%EB%B9%84%EC%95%84&areaCode=SCH",
+      "photos": [
+        {
+          "id": "tonys-pizza-napoletana",
+          "title": "Tony's Pizza Napoletana",
+          "url": "https://persistent.oaistatic.com/pizzaz/pizzaz-2.png"
+        },
+        {
+          "id": "golden-boy-pizza",
+          "title": "Golden Boy Pizza",
+          "url": "https://persistent.oaistatic.com/pizzaz/pizzaz-3.png"
+        },
+        {
+          "id": "pizzeria-delfina-mission",
+          "title": "Pizzeria Delfina (Mission)",
+          "url": "https://persistent.oaistatic.com/pizzaz/pizzaz-6.png"
+        },
+        {
+          "id": "ragazza",
+          "title": "Ragazza",
+          "url": "https://persistent.oaistatic.com/pizzaz/pizzaz-4.png"
+        },
+        {
+          "id": "del-popolo",
+          "title": "Del Popolo",
+          "url": "https://persistent.oaistatic.com/pizzaz/pizzaz-5.png"
+        },
+        {
+          "id": "square-pie-guys",
+          "title": "Square Pie Guys",
+          "url": "https://persistent.oaistatic.com/pizzaz/pizzaz-1.png"
+        },
+        {
+          "id": "zero-zero",
+          "title": "Zero Zero",
+          "url": "https://persistent.oaistatic.com/pizzaz/pizzaz-2.png"
+        }
+      ]
+    }
+  ]
+}
+
+
