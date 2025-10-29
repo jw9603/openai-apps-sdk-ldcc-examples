@@ -92,7 +92,7 @@ pnpm start
 python -m venv .venv
 source .venv/bin/activate
 pip install -r pizzaz_server_python/requirements.txt
-uvicorn pizzaz_server_python.main:app --port 8000
+uvicorn ldcc_server_python.main:app --port 8000
 ```
 
 ### Solar system Python server
@@ -343,5 +343,6 @@ ChatGPT는 MCP 서버로부터 받은 데이터를 바탕으로
 This project is based on the Pizzaz example from the
 [openai/openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples)
 repository, which is licensed under the MIT License.
+
 
 All custom UI and dataset modifications for "도시의 푸른농장" are authored by Jiwon Jeong.
