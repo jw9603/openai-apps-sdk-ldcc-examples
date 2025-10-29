@@ -381,7 +381,7 @@ app.add_middleware(
 
 app.mount(
     "/static",
-    StaticFiles(directory="/Users/jeongjiwon/openai-apps-sdk-ldcc_examples/images"),
+    StaticFiles(directory="/Users/jeongjiwon/openai-apps-sdk-ldcc-examples/images"),
     name="static"
 )
 
@@ -390,3 +390,4 @@ app.mount(
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run("main:app", host="0.0.0.0", port=8000)
+
