@@ -282,9 +282,9 @@ app.mount(
 
 ```bash
 python -m venv .venv
-source .venv/bin/activate        # Windows: .venv\Scripts\activate
-pip install -r lotte_vegi_server/requirements.txt
-uvicorn lotte_vegi_server.main:app --port 8000
+source .venv/bin/activate       # Windows: .venv\Scripts\activate
+pip install -r ldcc_server_python/requirements.txt
+uvicorn ldcc_server_python.main:app --port 8000
 ```
 
 > 💡 한 번 설치한 가상환경(.venv)은 모든 Python MCP 서버에서 재사용할 수 있습니다.
@@ -348,6 +348,7 @@ repository, which is licensed under the MIT License.
 
 
 All custom UI and dataset modifications for "도시의 푸른농장" are authored by Jiwon Jeong.
+
 
 
 
