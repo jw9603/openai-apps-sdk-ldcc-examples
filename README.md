@@ -247,11 +247,11 @@ assets/
 ## 🥬 MCP 서버 실행 (Python)
 
 ```bash
-cd ldcc_server_python
 python -m venv .venv
 source .venv/bin/activate   # Windows → source .venv/Scripts/Activate.ps1
 pip install -r requirements.txt
 uvicorn ldcc_server_python.main:app --port 8000
+
 ```
 
 ### ⚠️ 정적 파일 경로 설정 필수
@@ -348,6 +348,7 @@ repository, which is licensed under the MIT License.
 
 
 All custom UI and dataset modifications for "도시의 푸른농장" are authored by Jiwon Jeong.
+
 
 
 
