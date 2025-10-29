@@ -272,13 +272,6 @@ app.mount(
 | Windows     | `C:\\Users\\username\\lotte-vegi-app\\assets` |
 
 ---
-
-좋아 👍 아래는 원본 OpenAI Apps SDK README의 **“Run the MCP servers + Testing in ChatGPT”** 구성을
-너의 프로젝트(도시의 푸른농장, Python 서버만 사용)에 맞게 **한글 버전으로 정리한 완성형 Markdown**이야.
-그대로 `README.md` 안에 붙이면 돼.
-
----
-
 ## 🥬 MCP 서버 실행
 
 이 저장소는 Apps SDK 위젯 번들을 시각화하기 위한 **Python MCP 서버 예시**를 포함합니다.
@@ -355,5 +348,6 @@ repository, which is licensed under the MIT License.
 
 
 All custom UI and dataset modifications for "도시의 푸른농장" are authored by Jiwon Jeong.
+
 
 
